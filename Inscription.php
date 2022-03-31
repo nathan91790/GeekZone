@@ -29,17 +29,19 @@
     <!--Création de la navBar en html-->
 
     <nav class="navbar navbar-light navbar-expand-lg navigation-clean-button" style="background: rgba(0,0,0,0.1);color: rgb(73,134,147);border-color: rgb(7,98,7);">
-        <div class="container"><a class="navbar-brand" href="index.html" style="font-size: 60px;">GeekZone</a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
-            <div class="collapse navbar-collapse" id="navcol-1"><a class="login" href="Boutiques.html" style="background: rgba(32,201,151,0);color: var(--bs-gray-100);font-size: 23px;">Nos Boutiques</a>
+
+        <div class="container"><a class="navbar-brand" href="index.php" style="font-size: 60px;">GeekZone</a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+
+            <div class="collapse navbar-collapse" id="navcol-1"><a class="login" href="Boutiques.php" style="background: rgba(32,201,151,0);color: var(--bs-gray-100);font-size: 23px;">Nos Boutiques</a>
                 <ul class="navbar-nav me-auto">
                     <li class="nav-item"></li>
                     <li class="nav-item"></li>
                     <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown" href="#" style="font-size: 23px;color: var(--bs-gray-100);">Catalogue</a>
-                        <div class="dropdown-menu"><a class="dropdown-item" href="Cuisine.html">Cuisine</a><a class="dropdown-item" href="Gadget.html">Gadget</a><a class="dropdown-item" href="Mode.html">Mode</a><a class="dropdown-item" href="Portable.html">Portable</a><a class="dropdown-item" href="USB.html">USB</a></div>
+                        <div class="dropdown-menu"><a class="dropdown-item" href="Cuisine.php">Cuisine</a><a class="dropdown-item" href="Gadget.php">Gadget</a><a class="dropdown-item" href="Mode.php">Mode</a><a class="dropdown-item" href="Portable.php">Portable</a><a class="dropdown-item" href="USB.php">USB</a></div>
                     </li>
-                </ul><span class="navbar-text actions"> <a class="login" href="connexion.html" style="background: rgba(32,201,151,0);color: var(--bs-gray-100);font-size: 20px;">Se
-                        Connecter</a><a class="btn btn-light action-button" role="button" href="Inscription.html" style="font-size: 20px;color: var(--bs-gray-100);background: var(--bs-green);">S'inscrire</a></span>
-            </div><a href="Admin.html"><img src="assets/img/setting-removebg-preview.png" style="width: 75px;height: 45px;"></a>
+                </ul><a class="login" href="Connexion.php" style="background: rgba(32,201,151,0);color: var(--bs-gray-100);font-size: 20px;padding: 10px;">Se
+                    Connecter</a><span class="navbar-text actions"> <a class="btn btn-light action-button" role="button" href="Inscription.php" style="font-size: 20px;color: var(--bs-gray-100);background: var(--bs-green);margin: 15px;">S'inscrire</a></span>
+            </div><a href="Admin.php"><img src="assets/img/setting-removebg-preview.png" style="width: 75px;height: 45px;"></a>
         </div>
     </nav>
     <p class="text-center d-xl-flex justify-content-xl-center" style="font-size: 50px;text-align: center;font-style: italic;font-weight: bold;">GeekZone la référence du Geek
