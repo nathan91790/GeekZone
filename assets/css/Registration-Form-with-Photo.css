@@ -1,5 +1,4 @@
 .register-photo {
-  background: #f1f7fc;
   padding: 80px 0;
 }
 
@@ -12,7 +11,7 @@
 
 .register-photo .form-container {
   display: table;
-  max-width: 900px;
+  max-width: 100%;
   width: 90%;
   margin: 0 auto;
   box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
@@ -72,14 +71,5 @@
 
 .register-photo form .btn-primary:active {
   transform: translateY(1px);
-}
-
-.register-photo form .already {
-  display: block;
-  text-align: center;
-  font-size: 12px;
-  color: #6f7a85;
-  opacity: 0.9;
-  text-decoration: none;
 }
 

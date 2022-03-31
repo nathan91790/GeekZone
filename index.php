@@ -7,7 +7,7 @@
 
 <!--Balise Titre contenant le nom Geekzone -->
 
-    <title>Geekzone</title>
+    <title>GeekZone</title>
 
     <!-- Route permettant de faire le lien entre plusieurs fichiers css -->
 
@@ -30,7 +30,7 @@
 
     <nav class="navbar navbar-light navbar-expand-lg navigation-clean-button" style="background: rgba(0,0,0,0.1);color: rgb(73,134,147);border-color: rgb(7,98,7);">
 
-        <div class="container"><a class="navbar-brand" href="index.php" style="font-size: 60px;">GeekZone</a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+        <div class="container"><a class="navbar-brand" href="index.php" style="font-size: 60px;">GeekZone </a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
 
             <div class="collapse navbar-collapse" id="navcol-1"><a class="login" href="Boutiques.php" style="background: rgba(32,201,151,0);color: var(--bs-gray-100);font-size: 23px;">Nos Boutiques</a>
                 <ul class="navbar-nav me-auto">

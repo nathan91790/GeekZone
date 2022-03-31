@@ -55,7 +55,7 @@
             </div>
         </div>
     </section>
-    <section class="login-dark" style="background: url(&quot;assets/img/4ecdebe01d_50179351_connexion-wifi.jpg&quot;);width: 1521px;">
+    <section class="login-dark" style="background: url(&quot;assets/img/4ecdebe01d_50179351_connexion-wifi.jpg&quot;);width: 1899px;">
         <form method="post">
             <h2 class="visually-hidden">Login Form</h2>
             <div class="illustration"><i class="icon ion-ios-locked-outline"></i></div>

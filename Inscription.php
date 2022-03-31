@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr" style="background: url(&quot;https://cdn.bootstrapstudio.io/placeholders/1400x800.png&quot;);color: rgb(0, 0, 0);width: 1521px;">
+<html lang="fr" style="background: url(&quot;https://cdn.bootstrapstudio.io/placeholders/1400x800.png&quot;);color: rgb(0, 0, 0);">
 
 <head>
     <meta charset="utf-8">
@@ -56,10 +56,10 @@
             </div>
         </div>
     </section>
-    <section class="register-photo" style="width: 1520px;">
-        <div class="form-container" style="width: 1500px;">
+    <section class="register-photo" style="margin-left:100px; width: 1620px;">
+        <div class="form-container" style="width: 1200px;">
             <div class="image-holder" style="width: 800px;"></div>
-            <form method="post" style="width: 800px;">
+            <form method="post">
                 <h2 class="text-center"><strong>Créer un Compte</strong></h2>
                 <div class="mb-3"><input class="form-control" type="email" name="email" placeholder="Email"></div>
                 <div class="mb-3"><input class="form-control" type="password" name="password" placeholder="Mot de passe"></div>
