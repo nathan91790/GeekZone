@@ -1,11 +1,16 @@
 <!DOCTYPE html>
-<html lang="fr"
-    style="background: url(&quot;https://cdn.bootstrapstudio.io/placeholders/1400x800.png&quot;);color: rgb(0, 0, 0);">
+<html lang="fr" style="background: url(&quot;https://cdn.bootstrapstudio.io/placeholders/1400x800.png&quot;);color: rgb(0, 0, 0);">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+
+    <!--Balise Titre contenant le nom Geekzone -->
+
     <title>Geekzone</title>
+
+    <!-- Route permettant de faire le lien entre plusieurs fichiers css -->
+
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Akaya+Kanadaka&amp;display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter:400,700&amp;display=swap">
@@ -20,53 +25,43 @@
 </head>
 
 <body style="background: linear-gradient(black 0%, rgb(118,197,118) 8%, white);">
-    <nav class="navbar navbar-light navbar-expand-lg navigation-clean-button"
-        style="background: rgba(0,0,0,0.1);color: rgb(73,134,147);border-color: rgb(7,98,7);">
-        <div class="container"><a class="navbar-brand" href="index.html" style="font-size: 60px;">GeekZone</a><button
-                data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span
-                    class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
-            <div class="collapse navbar-collapse" id="navcol-1"><a class="login" href="Boutiques.html"
-                    style="background: rgba(32,201,151,0);color: var(--bs-gray-100);font-size: 23px;">Nos Boutiques</a>
+
+    <!--Création de la navBar en html-->
+
+    <nav class="navbar navbar-light navbar-expand-lg navigation-clean-button" style="background: rgba(0,0,0,0.1);color: rgb(73,134,147);border-color: rgb(7,98,7);">
+        <div class="container"><a class="navbar-brand" href="index.html" style="font-size: 60px;">GeekZone</a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navcol-1"><a class="login" href="Boutiques.html" style="background: rgba(32,201,151,0);color: var(--bs-gray-100);font-size: 23px;">Nos Boutiques</a>
                 <ul class="navbar-nav me-auto">
                     <li class="nav-item"></li>
                     <li class="nav-item"></li>
-                    <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" aria-expanded="false"
-                            data-bs-toggle="dropdown" href="#"
-                            style="font-size: 23px;color: var(--bs-gray-100);">Catalogue</a>
-                        <div class="dropdown-menu"><a class="dropdown-item" href="Cuisine.html">Cuisine</a><a
-                                class="dropdown-item" href="Gadget.html">Gadget</a><a class="dropdown-item"
-                                href="Mode.html">Mode</a><a class="dropdown-item" href="Portable.html">Portable</a><a
-                                class="dropdown-item" href="USB.html">USB</a><a class="dropdown-item" href="#">Menu
+                    <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown" href="#" style="font-size: 23px;color: var(--bs-gray-100);">Catalogue</a>
+                        <div class="dropdown-menu"><a class="dropdown-item" href="Cuisine.html">Cuisine</a><a class="dropdown-item" href="Gadget.html">Gadget</a><a class="dropdown-item" href="Mode.html">Mode</a><a class="dropdown-item" href="Portable.html">Portable</a><a class="dropdown-item" href="USB.html">USB</a><a class="dropdown-item" href="#">Menu
                                 Item</a></div>
                     </li>
-                </ul><span class="navbar-text actions"> <a class="login" href="connexion.html"
-                        style="background: rgba(32,201,151,0);color: var(--bs-gray-100);font-size: 20px;">Se
-                        Connecter</a><a class="btn btn-light action-button" role="button" href="Inscription.html"
-                        style="font-size: 20px;color: var(--bs-gray-100);background: var(--bs-green);">S'inscrire</a></span>
-            </div><a href="Admin.html"><img src="assets/img/setting-removebg-preview.png"
-                    style="width: 75px;height: 45px;"></a>
+                </ul><span class="navbar-text actions"> <a class="login" href="connexion.html" style="background: rgba(32,201,151,0);color: var(--bs-gray-100);font-size: 20px;">Se
+                        Connecter</a><a class="btn btn-light action-button" role="button" href="Inscription.html" style="font-size: 20px;color: var(--bs-gray-100);background: var(--bs-green);">S'inscrire</a></span>
+            </div><a href="Admin.html"><img src="assets/img/setting-removebg-preview.png" style="width: 75px;height: 45px;"></a>
         </div>
     </nav>
-    <p class="text-center d-xl-flex justify-content-xl-center"
-        style="font-size: 50px;text-align: center;font-style: italic;font-weight: bold;">GeekZone la référence du Geek
-    </p>
+    <p class="text-center d-xl-flex justify-content-xl-center" style="font-size: 50px;text-align: center;font-style: italic;font-weight: bold;">GeekZone la référence du Geek </p>
     <section class="article-list" style="color: rgb(49, 52, 55);">
+
+        <!-- Création du formulaire pour connecter son compte-->
+
         <div class="container">
             <div class="intro">
                 <p class="text-center"></p>
             </div>
         </div>
     </section>
-    <section class="login-dark"
-        style="background: url(&quot;assets/img/4ecdebe01d_50179351_connexion-wifi.jpg&quot;);width: 1521px;">
+    <section class="login-dark" style="background: url(&quot;assets/img/4ecdebe01d_50179351_connexion-wifi.jpg&quot;);width: 1521px;">
         <form method="post">
             <h2 class="visually-hidden">Login Form</h2>
             <div class="illustration"><i class="icon ion-ios-locked-outline"></i></div>
             <div class="mb-3"><input class="form-control" type="email" name="email" placeholder="Email"></div>
             <div class="mb-3"><input class="form-control" type="password" name="Password" placeholder="Mot de Passe">
             </div>
-            <div class="mb-3"><button class="btn btn-primary d-block w-100" type="submit">Connexion</button></div><a
-                class="forgot" href="#">Mot de passe ou Email oublié ?</a>
+            <div class="mb-3"><button class="btn btn-primary d-block w-100" type="submit">Connexion</button></div><a class="forgot" href="#">Mot de passe ou Email oublié ?</a>
         </form>
     </section>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
