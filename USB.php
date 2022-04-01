@@ -63,8 +63,8 @@
                     <h3 class="name" style="font-size: 22px;">Chauffe-Tasse Biscuit USB</h3>
                     <p class="description" style="font-size: 17px;"><br>Rien ne vaut que de traîner sur ses sites
                         préférés en compagnie d''un breuvage bien tiède juste à côté de vous. Un chocolat ? Un thé ? Un
-                        café ? Ce chauffe-tasse tout mignon en forme de petit gâteau gardera votre boisson bien au chaud
-                        jusqu''à 50° !<br><br></p><a class="action" href="#"></a>
+                        café ? Ce chauffe-tasse tout mignon en forme de petit gâteau gardera votre boisson bien au chaud jusqu''à 50° !<br><br></p>
+                    <a class="action" href="#"></a>
                 </div>
 
                 <!-- Création du produit Ventilateur Lumineux USB avec son nom et ses informations -->
