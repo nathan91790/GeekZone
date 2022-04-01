@@ -44,8 +44,7 @@
             </div><a href="Admin.php"><img src="assets/img/setting-removebg-preview.png" style="width: 75px;height: 45px;"></a>
         </div>
     </nav>
-    <p class="text-center d-xl-flex justify-content-xl-center" style="font-size: 50px;text-align: center;font-style: italic;font-weight: bold;">GeekZone la référence du Geek
-    </p>
+    <p class="text-center d-xl-flex justify-content-xl-center" style="font-size: 50px;text-align: center;font-style: italic;font-weight: bold;">GeekZone la référence du Geek</p>
     <section class="article-list" style="color: rgb(49, 52, 55);">
 
         <!--Création du Containeur avec tous les produits dans la catégorie Cuisine-->
@@ -58,13 +57,10 @@
 
                 <!--Div création du produit Mug Pac-Man avec son nom et sa description  -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/glacons-tetris%20(1).jpg" style="width: 283px;height: 283px;"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/glacons-tetris%20(1).jpg" style="width: 283px;height: 283px" ;></a>
                     <p class="description" style="font-size: 17px;"></p><a class="action" href="#"></a>
                 </div>
                 <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/mug-pac-man-chaud-froid.jpg"></a>
-                    <h3 class="name" style="font-size: 22px;">Mug Pac-Man</h3>
-                    <p class="description" style="font-size: 17px;"><br>Fan de Pac-Man, ce mug est fait pour vous
-                        !<br><br>&nbsp;</p><a class="action" href="#"></a>
                 </div>
                 <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/fridgebook-magnet-reseau-social-frigo.jpg" style="width: 283px;"></a></div>
             </div>
@@ -78,20 +74,27 @@
                 <!--Div création du produit Glaçon Tetris avec son nom et sa description  -->
 
                 <div class="col-sm-6 col-md-4 item"><a href="#"></a>
-                    <h3 class="name" style="font-size: 22px;">Glaçon Tetris</h3>
+                    <h3 class="name" style="font-size: 22px" ;>Glaçon Tetris</h3>
                     <h3 class="name" style="font-size: 22px;"></h3>
                     <p class="description" style="font-size: 17px;">Un élément geek indispensable pour passer une bonne
                         soirée à se remémorer les jeux de votre enfance !&nbsp;</p><a class="action" href="#"></a>
                 </div>
 
+                <!--Div création du produit Mug Pac-Man avec son nom et sa description  -->
+
+                <div class="col-sm-6 col-md-4 item"><a href="#"></a>
+                    <h3 class="name" style="font-size: 22px;">Mug Pac-Man</h3>
+                    <p class="description" style="font-size: 17px;"><br>Fan de Pac-Man, ce mug est fait pour vous !<br><br>&nbsp;</p>
+                    <a class="action" href="#"></a>
+                </div>
+
                 <!--Div création du produit Fridgebook Magnet Réseau avec son nom et sa description  -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="#"></a><a class="action" href="#"></a></div>
                 <div class="col-sm-6 col-md-4 item"><a href="#"></a>
-                    <h3 class="name" style="font-size: 22px;"><br><strong>Fridgebook Magnet Réseau</strong><br><br></h3>
-                    <p style="font-size: 17px;"><br>Grâce à nos magnets fridgebook. Mettez à jour votre statut et
-                        commentaires à l''aide du stylo feutre fourni.<br>Recréez votre réseau social préféré
-                        ...&nbsp;<br><br></p><a class="action" href="#"></a>
+                    <h3 class="name" style="font-size: 22px;">Fridgebook Magnet Réseau</h3>
+                    <p style="font-size: 17px;"><br>Grâce à nos magnets fridgebook. Mettez à jour votre statut et commentaires à l''aide du stylo feutre fourni.
+                        <br>Recréez votre réseau social préféré ...&nbsp;<br><br>
+                    </p><a class="action" href="#"></a>
                 </div>
             </div>
         </div>

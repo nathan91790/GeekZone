@@ -59,7 +59,7 @@
 
                 <!-- Création du produit Chauffe-Tasse Biscuit USB avec son nom et ses informations -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/chauffe-tasse-biscuit-usb.jpg" style="width: 283px;height: 283px;"><img class="img-fluid" src="assets/img/chauffe-tasse-biscuit-usb-1.jpg" style="width: 283px;height: 283px;"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/chauffe-tasse-biscuit-usb.jpg" style="width: 400px; height: 325px" ;></a>
                     <h3 class="name" style="font-size: 22px;">Chauffe-Tasse Biscuit USB</h3>
                     <p class="description" style="font-size: 17px;"><br>Rien ne vaut que de traîner sur ses sites
                         préférés en compagnie d''un breuvage bien tiède juste à côté de vous. Un chocolat ? Un thé ? Un
@@ -69,30 +69,32 @@
 
                 <!-- Création du produit Ventilateur Lumineux USB avec son nom et ses informations -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/ventilateur-lumineux-usb.jpg"><img class="img-fluid" src="assets/img/ventilateur-lumineux-usb-1.jpg"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/ventilateur-lumineux-usb.jpg" style="width: 400px; height: 325px"></a>
                     <h3 class="name" style="font-size: 22px;">Ventilateur Lumineux USB</h3>
-                    <p class="description" style="font-size: 17px;"><br>Un ventilateur USB avec tige flexible, idéal
-                        pour une utilisation sur un ordinateur portable. Petit plus : des LEDs incrustées pour une
-                        ambiance hors du commun.', 'Chaud ? Ce mini-ventilateur USB avec tige flexible saura vous
-                        rafraîchir durant vos longues journées de travail.<br><br></p><a class="action" href="#"></a>
+                    <p class="description" style="font-size: 17px;"><br>Un ventilateur USB avec tige flexible,
+                        idéal pour une utilisation sur un ordinateur portable. Petit plus : des LEDs incrustées pour une ambiance hors du commun.
+                        Chaud ? Ce mini-ventilateur USB avec tige flexible saura vous rafraîchir durant vos longues journées de travail.<br><br></p>
+                    <a class="action" href="#"></a>
                 </div>
 
                 <!-- Création du produit Frigo USB avec son nom et ses informations -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/frigo-usb.jpg" style="width: 283px;"><img class="img-fluid" src="assets/img/frigo-usb-1.jpg" style="width: 283px;"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/frigo-usb.jpg" style="width: 400px; height: 325px"></a>
                     <h3 class="name" style="font-size: 22px;">Frigo USB</h3>
                     <p style="font-size: 17px;"><br>Ce mini frigo vous permettra de refroidir votre canette de soda,
-                        lors des grandes chaleurs !<br><br></p><a class="action" href="#"></a>
+                        lors des grandes chaleurs !<br><br></p>
+                    <a class="action" href="#"></a>
                 </div>
 
                 <!-- Création du produit Mini Aspirateur USB avec son nom et ses informations -->
 
                 <div class="col-sm-6 col-md-4 item"><a href="#"></a><a class="action" href="#"></a></div>
-                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/mini-aspirateur-usb.jpg" style="width: 283px;"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/mini-aspirateur-usb.jpg" style="width: 400px; height: 325px"></a>
                     <h3 class="name" style="font-size: 22px;">Mini Aspirateur USB</h3>
-                    <p style="font-size: 17px;"><br>Fini les miettes de pain et autres poussières incrustées dans votre
-                        clavier, grâce à ce mini aspirateur USB. Accessoire bien pratique ! Éliminez la saleté qui règne
-                        sur votre bureau, grâce à ce mini aspirateur USB !<br><br></p><a class="action" href="#"></a>
+                    <p style="font-size: 17px;"><br>Fini les miettes de pain et autres poussières incrustées dans votre clavier,
+                        grâce à ce mini aspirateur USB. Accessoire bien pratique !
+                        Éliminez la saleté qui règne sur votre bureau, grâce à ce mini aspirateur USB !<br><br></p>
+                    <a class="action" href="#"></a>
                 </div>
                 <div class="col-sm-6 col-md-4 item"><a href="#"></a><a class="action" href="#"></a></div>
             </div>

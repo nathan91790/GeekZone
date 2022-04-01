@@ -58,16 +58,17 @@
 
                 <!--Div création du produit Ventilateur pour Iphone avec son nom et sa description  -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/ventilo-pour-iphone.jpg" style="width: 283px;height: 283px;"><img class="img-fluid" src="assets/img/ventilo-pour-iphone-1.jpg" style="width: 283px;height: 283px;"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/ventilo-pour-iphone.jpg" style="width: 400px;height: 325px;"></a>
                     <h3 class="name" style="font-size: 22px;">Ventilateur pour Iphone</h3>
-                    <p class="description" style="font-size: 17px;"><br>Le ventilateur Iphone est le gadget à emporter
-                        partout avec vous !<br>Canicule ou bouffées de chaleur? Nous avons l''accessoire geek au top
-                        pour des journées où tout est chaud !<br><br></p><a class="action" href="#"></a>
+                    <p class="description" style="font-size: 17px;"><br>Le ventilateur Iphone est le gadget à emporter partout avec vous !
+                        <br>Canicule ou bouffées de chaleur? Nous avons l''accessoire geek au top pour des journées où tout est chaud !<br><br>
+                    </p>
+                    <a class="action" href="#"></a>
                 </div>
 
                 <!--Div création du produit Coque Iphone Décapsuleur avec son nom et sa description  -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/coque-iphone-4-decapsuleur-2.jpg"><img class="img-fluid" src="assets/img/coque-iphone-4-decapsuleur.jpg"><img class="img-fluid" src="assets/img/coque-iphone-4-decapsuleur-1.jpg"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/coque-iphone-4-decapsuleur.jpg" style="width: 400px;height: 325px" ;></a>
                     <h3 class="name" style="font-size: 22px;">Coque Iphone Décapsuleur</h3>
                     <p class="description" style="font-size: 17px;"><br>Avec cette coque intelligente conçue avec un
                         décapsuleur, vous serez toujours prêt à ouvrir votre boisson préférée !<br><br></p><a class="action" href="#"></a>
@@ -75,10 +76,11 @@
 
                 <!--Div création du produit Manette Jeu pour écran tactile Istick avec son nom et sa description  -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="#"></a><img class="img-fluid" src="assets/img/manette-jeu-pour-ecran-tactile-istick.jpg"><img class="img-fluid" src="assets/img/manette-jeu-pour-ecran-tactile-istick-1.jpg">
+                <div class="col-sm-6 col-md-4 item"><a href="#"></a><img class="img-fluid" src="assets/img/manette-jeu-pour-ecran-tactile-istick.jpg" style="width: 400px;height: 325px" ;></a>
                     <h3 class="name" style="font-size: 22px;">Manette Jeu pour écran tactile Istick</h3>
-                    <p style="font-size: 17px;"><br>Le stick qui transforme votre smartphone en console portable, Une
-                        manette spécifiquement conçue pour les écrans tactiles.<br><br></p><a class="action" href="#"></a>
+                    <p style="font-size: 17px;"><br>Le stick qui transforme votre smartphone en console portable,
+                        Une manette spécifiquement conçue pour les écrans tactiles.<br><br></p>
+                    <a class="action" href="#"></a>
                 </div>
             </div>
         </div>
