@@ -58,9 +58,9 @@
             <!-- Création d'une div permettant d'afficher les images des articles -->
 
             <div class="row articles">
-                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/prise-chargeur-usb-robinet.jpg" style="width: 283px;height: 283px;"></a><img class="img-fluid" src="assets/img/prise-chargeur-usb-robinet-1.jpg" style="width: 283px;height: 283px;"><img class="img-fluid" src="assets/img/prise-chargeur-usb-robinet-2.jpg" style="width: 283px;"><a class="action" href="#"></a></div>
-                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/souris-optique-pixel.jpg"><img class="img-fluid" src="assets/img/souris-optique-pixel-1.jpg"></a><a class="action" href="#"></a></div>
-                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/stealth-switch.jpg" style="width: 283px;"><img class="img-fluid" src="assets/img/stealth-switch-1.jpg" style="width: 283px;"></a><a class="action" href="#"></a></div>
+                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/prise-chargeur-usb-robinet.jpg" style="width: 283px;height: 283px;"></a></div>
+                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/souris-optique-pixel.jpg"></a></div>
+                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/stealth-switch.jpg" style="width: 283px;"></a></div>
             </div>
         </div>
 

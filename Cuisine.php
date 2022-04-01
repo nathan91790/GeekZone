@@ -58,8 +58,7 @@
 
                 <!--Div création du produit Mug Pac-Man avec son nom et sa description  -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/glacons-tetris%20(2).jpg" style="width: 283px;height: 283px;"></a>
-                    <h3 class="name" style="font-size: 22px;"></h3><img class="img-fluid" src="assets/img/glacons-tetris%20(1).jpg" style="width: 283px;height: 283px;">
+                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/glacons-tetris%20(1).jpg" style="width: 283px;height: 283px;"></a>
                     <p class="description" style="font-size: 17px;"></p><a class="action" href="#"></a>
                 </div>
                 <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/mug-pac-man-chaud-froid.jpg"></a>
@@ -67,7 +66,7 @@
                     <p class="description" style="font-size: 17px;"><br>Fan de Pac-Man, ce mug est fait pour vous
                         !<br><br>&nbsp;</p><a class="action" href="#"></a>
                 </div>
-                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/fridgebook-magnet-reseau-social-frigo.jpg" style="width: 283px;"></a><img class="img-fluid" src="assets/img/fridgebook-magnet-reseau-social-frigo%20(1).jpg" style="width: 283px;"></div>
+                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/fridgebook-magnet-reseau-social-frigo.jpg" style="width: 283px;"></a></div>
             </div>
         </div>
         <div class="container">
