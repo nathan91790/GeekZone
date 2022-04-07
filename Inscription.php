@@ -61,15 +61,19 @@
             <div class="image-holder" style="width: 800px;"></div>
             <form method="post">
                 <h2 class="text-center"><strong>Créer un Compte</strong></h2>
-                <div class="mb-3"><input class="form-control" type="email" name="email" placeholder="Email"></div>
-                <div class="mb-3"><input class="form-control" type="password" name="password" placeholder="Mot de passe"></div>
-                <div class="mb-3"><input class="form-control" type="password" name="password-repeat" placeholder="Mot de passe (confirmer)"></div>
+                <div class="mb-3"><input class="form-control" type="email" name="email" placeholder="Email" required="required"></div>
+                <div class="mb-3"><input class="form-control" type="password" name="password" placeholder="Mot de passe" required="required"></div>
+                <div class="mb-3"><input class="form-control" type="password" name="password-repeat" placeholder="Mot de passe (confirmer)" required="required">
+                </div>
+
                 <div class="mb-3">
-                    <div class="form-check"><label class="form-check-label">J'accepte les termes de la licence</label>
+                    <div class="form-check"><input type="checkbox" required="required"> <label> </label>
+                        <label class="form-check-label"> J'accepte les termes de la licence</label>
                     </div>
                 </div>
                 <div class="mb-3"><button class="btn btn-primary d-block w-100" type="submit">S'Inscrire</button></div>
-                <a class="already" href="connexion.html">Avez-vous déjà un compte ? Connectez-vous</a>
+                <a class="already" href="connexion.php">Avez-vous déjà un compte ? Connectez-vous</a>
+                
             </form>
         </div>
     </section>
