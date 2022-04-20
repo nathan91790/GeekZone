@@ -53,7 +53,7 @@
             <!-- Création d'une div permettant d'avoir le nom de chaque boutique avec une image la concernant et des informations sur la boutique -->
 
             <div class="row articles">
-                <div class="col-sm-6 col-md-4 item" style="width: 650px;font-size: 20px;"><a href="#"><img class="img-fluid" src="assets/img/boutique_albertville.jpg" style="width: 283px;height: 283px;"></a>
+                <div class="col-sm-6 col-md-4 item" style="width: 650px;font-size: 20px;"><a href="boutique/Albertville.php"><img class="img-fluid" src="assets/img/boutique_albertville.jpg" style="width: 283px;height: 283px;"></a>
 
                     <!--Div pour la boutique d' Alberville -->
 
@@ -63,7 +63,7 @@
                     <p style="font-size: 20px;">Ouvert : Du Lundi au Samedi <br>de 8h30 à 12h et de 14h à 19h</p>
                     <p style="font-size: 20px;">04 56 10 36 89</p><a class="action" href="#"></a>
                 </div>
-                <div class="col-sm-6 col-md-4 item" style="width: 650px;"><a href="#"><img class="img-fluid" src="assets/img/boutique_annecy.jpg" style="width: 370px;height: 283px;"></a>
+                <div class="col-sm-6 col-md-4 item" style="width: 650px;"><a href="boutique/Annecy.php"><img class="img-fluid" src="assets/img/boutique_annecy.jpg" style="width: 370px;height: 283px;"></a>
 
                     <!--Div pour la boutique d' Annecy -->
 
@@ -81,7 +81,7 @@
 
                 <!--Div pour la boutique de Chambery -->
 
-                <div class="col-sm-6 col-md-4 item" style="width: 650px;"><a href="#"><img class="img-fluid" src="assets/img/boutique_chambery.jpg" style="width: 283px;height: 283px;"></a>
+                <div class="col-sm-6 col-md-4 item" style="width: 650px;"><a href="boutique/Chambery.php"><img class="img-fluid" src="assets/img/boutique_chambery.jpg" style="width: 283px;height: 283px;"></a>
                     <h3 class="name" style="font-size: 30px;font-family: 'Akaya Kanadaka', serif;">Boutique de Chambery
                     </h3>
                     <p class="description" style="font-size: 20px;">35 rue Jean-Pierre Veyrat 73200 CHAMBERY</p>
@@ -92,7 +92,7 @@
 
                 <!--Div pour la boutique de Clermont Ferrand -->
 
-                <div class="col-sm-6 col-md-4 item" style="width: 650px;"><a href="#"><img class="img-fluid" src="assets/img/boutique_clermont.jpeg" style="width: 350px;height: 250px;"></a>
+                <div class="col-sm-6 col-md-4 item" style="width: 650px;"><a href="boutique/Clermont-Ferrand.php"><img class="img-fluid" src="assets/img/boutique_clermont.jpeg" style="width: 350px;height: 250px;"></a>
                     <h3 class="name" style="font-size: 30px;font-family: 'Akaya Kanadaka', serif;">Boutique de Clermont
                         Ferrand</h3>
                     <p class="description" style="font-size: 20px;">11 Bis Rue Saint-Esprit 63000 CLERMONT FERRAND</p>
@@ -109,7 +109,7 @@
             <!--Div pour la boutique de Grenoble -->
 
             <div class="row articles">
-                <div class="col-sm-6 col-md-4 item" style="width: 650px;"><a href="#"><img class="img-fluid" src="assets/img/boutique_grenoble.jpg" style="width: 350px;height: 250px;"></a>
+                <div class="col-sm-6 col-md-4 item" style="width: 650px;"><a href="boutique/Grenoble.php"><img class="img-fluid" src="assets/img/boutique_grenoble.jpg" style="width: 350px;height: 250px;"></a>
 
 
 
@@ -123,7 +123,7 @@
 
                 <!--Div pour la boutique de Lyon -->
 
-                <div class="col-sm-6 col-md-4 item" style="width: 650px;"><a href="#"><img class="img-fluid" src="assets/img/boutique_lyon.jpg" style="width: 350px;height: 250px;"></a>
+                <div class="col-sm-6 col-md-4 item" style="width: 650px;"><a href="boutique/Lyon.php"><img class="img-fluid" src="assets/img/boutique_lyon.jpg" style="width: 350px;height: 250px;"></a>
                     <h3 class="name" style="font-size: 30px;font-family: 'Akaya Kanadaka', serif;">Boutique de Lyon</h3>
                     <p class="description" style="font-size: 20px;">7 Quai Célestins 79002 LYON</p>
                     <p style="font-size: 20px;">Ouvert 7j/7 de 8h30 à 20h30<br>(Dimanche : 19h)</p>
@@ -132,7 +132,7 @@
 
                 <!--Div pour la boutique de Valence -->
 
-                <div class="col-sm-6 col-md-4 item" style="width: 1300px;"><a href="#"><img class="img-fluid" src="assets/img/boutique_valence.jpg" style="width: 350px;"></a>
+                <div class="col-sm-6 col-md-4 item" style="width: 1300px;"><a href="boutique/Valence.php"><img class="img-fluid" src="assets/img/boutique_valence.jpg" style="width: 350px;"></a>
                     <h3 class="name" style="font-size: 30px;font-family: 'Akaya Kanadaka', serif;">Boutique de Valence
                     </h3>
                     <p class="description" style="font-size: 20px;">84 Route Beauvallon 26000 VALENCE</p>
