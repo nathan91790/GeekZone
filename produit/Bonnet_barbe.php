@@ -76,16 +76,14 @@ $produitStatement->execute();
 $produit = $produitStatement->fetch();
 
 ?>
-    <p>
+    <p style = "font-size: 32px";>
       <strong>Produit</strong> : <?php echo $produit['nom']; ?><br /> </br>
-      <img class="img-fluid" src="../assets/img/bonnet-barbe-1.jpg">
+      <img class="img-fluid" src="../assets/img/bonnet-barbe-1.jpg" style="width: 400px; height: 325px; margin-top : 57px";>
 
-      <img class="img-fluid" src="../assets/img/bonnet-barbe.jpg"></br>
-      Le produit se nomme : <?php echo $produit['nom']; ?>, il est vendue pour <?php echo $produit['prix']; ?>
+      <img class="img-fluid" src="../assets/img/bonnet-barbe.jpg" style="width: 400px; height: 325px; margin-top : 57px;"></br></br>
+      <p style = "font-size: 26px";>Le produit se nomme : <?php echo $produit['nom']; ?>, il est vendue pour <?php echo $produit['prix']; ?>
       euros !<br /></br>
       <?php echo $produit['description']; ?> et pour plus de details : <?php echo $produit['detail']; ?> <br />
     </p>
-    <?php    
-?>
 
 </html>

@@ -75,9 +75,11 @@ $produitStatement->execute();
 $produit = $produitStatement->fetch();
 
 ?>
-   <p>
+   <p style = "font-size: 32px;">
    <strong>Produit</strong> : <?php echo $produit['nom']; ?><br/> </br>
-   Le produit se nomme : <?php echo $produit['nom']; ?>, il est vendue pour <?php echo $produit['prix']; ?> euros !<br/></br>
+   <img class="img-fluid" src="../assets/img/t-shirt-les-jeux-video-ont-ruine-ma-vie.jpg" style="width: 400px; height: 325px; margin-top : 57px;">
+   <img class="img-fluid" src="../assets/img/t-shirt-les-jeux-video-ont-ruine-ma-vie-1.jpg" style="width: 400px; height: 325px; margin-top : 57px;"> <br />
+   <p style = "font-size: 26px;">Le produit se nomme : <?php echo $produit['nom']; ?>, il est vendue pour <?php echo $produit['prix']; ?> euros !<br/></br>
    <?php echo $produit['description']; ?> et pour plus de details : <?php echo $produit['detail']; ?> <br/>
   </p>
 <?php      

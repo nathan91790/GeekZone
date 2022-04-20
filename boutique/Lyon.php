@@ -76,10 +76,10 @@ $produitStatement->execute();
 $produit = $produitStatement->fetch();
 
 ?>
-   <p>
-   <strong>Boutique de Lyon</strong><br/> </br>
-   <img class="img-fluid" src="../assets/img/boutique_lyon.jpg"><br/> </br>
-   Elle est situé : <?php echo $produit['rue']; ?>, dans <?php echo $produit['ville']; ?> <br/></br>
+  <p style = "font-size: 32px;">
+   <strong>Boutique de Lyon</strong></p><br/> </br>
+   <img class="img-fluid" src="../assets/img/boutique_lyon.jpg" style="width: 400px; height: 325px; margin-top : 57px;"><br/> </br>
+  <p style = "font-size: 32px;"> Elle est situé : <?php echo $produit['rue']; ?>, dans <?php echo $produit['ville']; ?> <br/></br>
    elle est joignable au <?php  echo $produit['telephone']; ?><br/></br><?php echo $produit['horaires']; ?> <br/>
   </p>
 <?php      

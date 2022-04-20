@@ -42,12 +42,9 @@
                 <ul class="navbar-nav me-auto">
                     <li class="nav-item"></li>
                     <li class="nav-item"></li>
-                    <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" aria-expanded="false" 
-                      data-bs-toggle="dropdown" href="#" style="font-size: 23px;color: var(--bs-gray-100);">Catalogue</a>
-                        <div class="dropdown-menu"><a class="dropdown-item" href="../Cuisine.php">Cuisine</a>
-                          <a class="dropdown-item" href="../Gadget.php">Gadget</a><a class="dropdown-item"
-                            href="../Mode.php">Mode</a><a class="dropdown-item" href="../Portable.php">Portable</a>
-                              <a class="dropdown-item" href="../USB.php">USB</a></div>
+                    <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown" href="#" style="font-size: 23px;color: var(--bs-gray-100);">Catalogue</a>
+                        <div class="dropdown-menu"><a class="dropdown-item" href="Cuisine.php">Cuisine</a><a class="dropdown-item" href="Gadget.php">Gadget</a><a class="dropdown-item" href="Mode.php">Mode</a><a class="dropdown-item" href="Portable.php">Portable</a><a class="dropdown-item" href="USB.php">USB</a></div>
+              
                     </li>
                 </ul><a class="login" href="../Connexion.php" style="background: rgba(32,201,151,0);
                   color: var(--bs-gray-100);font-size: 20px;padding: 10px;">Se Connecter</a><span 
@@ -76,10 +73,10 @@ $produitStatement->execute();
 $produit = $produitStatement->fetch();
 
 ?>
-   <p>
+   <p style = "font-size: 32px;">
    <strong>Boutique d'Alberville</strong><br/> </br>
-   <img class="img-fluid" src="../assets/img/boutique_albertville.jpg"><br/> </br>
-   Elle est situé : <?php echo $produit['rue']; ?>, dans <?php echo $produit['ville']; ?> <br/></br>
+   <img class="img-fluid" src="../assets/img/boutique_albertville.jpg" style="width: 400px; height: 325px; margin-top : 57px;"><br/> </br>
+  <p style = "font-size: 26px;"> Elle est situé : <?php echo $produit['rue']; ?>, dans <?php echo $produit['ville']; ?> <br/></br>
    elle est joignable au <?php  echo $produit['telephone']; ?><br/></br><?php echo $produit['horaires']; ?> <br/>
   </p>
 <?php      

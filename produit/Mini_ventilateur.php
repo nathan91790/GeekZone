@@ -77,6 +77,8 @@ $produit = $produitStatement->fetch();
 ?>
    <p>
    <strong>Produit</strong> : <?php echo $produit['nom']; ?><br/> </br>
+   <img class="img-fluid" src="../assets/img/ventilo-pour-iphone.jpg" style="width: 400px; height: 325px; margin-top : 57px;">
+   <img class="img-fluid" src="../assets/img/ventilo-pour-iphone-1.jpg" style="width: 400px; height: 325px; margin-top : 57px;"> <br />
    Le produit se nomme : <?php echo $produit['nom']; ?>, il est vendue pour <?php echo $produit['prix']; ?> euros !<br/></br>
    <?php echo $produit['description']; ?> et pour plus de details : <?php echo $produit['detail']; ?> <br/>
   </p>

@@ -76,10 +76,10 @@ $produitStatement->execute();
 $produit = $produitStatement->fetch();
 
 ?>
-   <p>
+   <p style = "font-size: 32px;">
    <strong>Boutique de Clermont-Ferrand</strong><br/> </br>
-   <img class="img-fluid" src="../assets/img/boutique_clermont.jpeg"><br/> </br>
-   Elle est situé : <?php echo $produit['rue']; ?>, dans <?php echo $produit['ville']; ?> <br/></br>
+   <img class="img-fluid" src="../assets/img/boutique_clermont.jpeg" style="width: 400px; height: 325px; margin-top : 57px;"><br/> </br>
+   <p style = "font-size: 26px;">Elle est situé : <?php echo $produit['rue']; ?>, dans <?php echo $produit['ville']; ?> <br/></br>
    elle est joignable au <?php  echo $produit['telephone']; ?><br/></br><?php echo $produit['horaires']; ?> <br/>
   </p>
 <?php      
