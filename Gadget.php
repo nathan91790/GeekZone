@@ -58,9 +58,9 @@
             <!-- Création d'une div permettant d'afficher les images des articles -->
 
             <div class="row articles">
-                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/prise-chargeur-usb-robinet.jpg" style="width: 283px;height: 283px;; padding: 10px;"></a></div>
-                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/souris-optique-pixel.jpg"></a></div>
-                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/stealth-switch.jpg" style="width: 283px;padding: 10px;"></a></div>
+                <div class="col-sm-6 col-md-4 item"><a href="produit/Prise_Chargeur_USB.php"><img class="img-fluid" src="assets/img/prise-chargeur-usb-robinet.jpg" style="width: 283px;height: 283px;; padding: 10px;"></a></div>
+                <div class="col-sm-6 col-md-4 item"><a href="produit/Souris_Optique.php"><img class="img-fluid" src="assets/img/souris-optique-pixel.jpg"></a></div>
+                <div class="col-sm-6 col-md-4 item"><a href="produit/Stealth_Switch.php"><img class="img-fluid" src="assets/img/stealth-switch.jpg" style="width: 283px;padding: 10px;"></a></div>
 
             </div>
         </div>
@@ -105,7 +105,7 @@
 
                 <!--Div création du produit Powerball avec son nom et sa description  -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="Produit.php">
+                <div class="col-sm-6 col-md-4 item"><a href="produit/Powerball.php">
                 <img class="img-fluid" src="assets/img/powerball.jpg" style="width: 283px;"><a href="#"></a>
                     <h3 class="name" style="font-size: 22px;">Powerball</h3>
                     <p style="font-size: 17px;"><br>Le Powerball est un nouveau gyroscope totalement révolutionnaire tenant dans la main et

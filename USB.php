@@ -59,7 +59,7 @@
 
                 <!-- Création du produit Chauffe-Tasse Biscuit USB avec son nom et ses informations -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/chauffe-tasse-biscuit-usb.jpg" style="width: 400px; height: 325px" ;></a>
+                <div class="col-sm-6 col-md-4 item"><a href="produit/Chauffe_tasse_biscuit.php"><img class="img-fluid" src="assets/img/chauffe-tasse-biscuit-usb.jpg" style="width: 400px; height: 325px" ;></a>
                     <h3 class="name" style="font-size: 22px;">Chauffe-Tasse Biscuit USB</h3>
                     <p class="description" style="font-size: 17px;"><br>Rien ne vaut que de traîner sur ses sites
                         préférés en compagnie d''un breuvage bien tiède juste à côté de vous. Un chocolat ? Un thé ? Un
@@ -69,7 +69,7 @@
 
                 <!-- Création du produit Ventilateur Lumineux USB avec son nom et ses informations -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/ventilateur-lumineux-usb.jpg" style="width: 400px; height: 325px"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="produit/Ventilateur_lumineux.php"><img class="img-fluid" src="assets/img/ventilateur-lumineux-usb.jpg" style="width: 400px; height: 325px"></a>
                     <h3 class="name" style="font-size: 22px;">Ventilateur Lumineux USB</h3>
                     <p class="description" style="font-size: 17px;"><br>Un ventilateur USB avec tige flexible,
                         idéal pour une utilisation sur un ordinateur portable. Petit plus : des LEDs incrustées pour une ambiance hors du commun.
@@ -79,7 +79,7 @@
 
                 <!-- Création du produit Frigo USB avec son nom et ses informations -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/frigo-usb.jpg" style="width: 400px; height: 325px"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="produit/frigo.php"><img class="img-fluid" src="assets/img/frigo-usb.jpg" style="width: 400px; height: 325px"></a>
                     <h3 class="name" style="font-size: 22px;">Frigo USB</h3>
                     <p style="font-size: 17px;"><br>Ce mini frigo vous permettra de refroidir votre canette de soda,
                         lors des grandes chaleurs !<br><br></p>
@@ -89,7 +89,7 @@
                 <!-- Création du produit Mini Aspirateur USB avec son nom et ses informations -->
 
                 <div class="col-sm-6 col-md-4 item"><a href="#"></a><a class="action" href="#"></a></div>
-                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/mini-aspirateur-usb.jpg" style="width: 400px; height: 325px"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="produit/Mini_Aspirateur.php"><img class="img-fluid" src="assets/img/mini-aspirateur-usb.jpg" style="width: 400px; height: 325px"></a>
                     <h3 class="name" style="font-size: 22px;">Mini Aspirateur USB</h3>
                     <p style="font-size: 17px;"><br>Fini les miettes de pain et autres poussières incrustées dans votre clavier,
                         grâce à ce mini aspirateur USB. Accessoire bien pratique !

@@ -57,12 +57,12 @@
 
                 <!--Div création du produit Mug Pac-Man avec son nom et sa description  -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/glacons-tetris%20(1).jpg" style="width: 283px;height: 283px" ;></a>
+                <div class="col-sm-6 col-md-4 item"><a href="produit/Glacon_tetris.php"><img class="img-fluid" src="assets/img/glacons-tetris%20(1).jpg" style="width: 283px;height: 283px" ;></a>
                     <p class="description" style="font-size: 17px;"></p><a class="action" href="#"></a>
                 </div>
-                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/mug-pac-man-chaud-froid.jpg"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="produit/Mug_Pac-Man.php"><img class="img-fluid" src="assets/img/mug-pac-man-chaud-froid.jpg"></a>
                 </div>
-                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/fridgebook-magnet-reseau-social-frigo.jpg" style="width: 283px;"></a></div>
+                <div class="col-sm-6 col-md-4 item"><a href="produit/Magnets_Fridgebooks.php"><img class="img-fluid" src="assets/img/fridgebook-magnet-reseau-social-frigo.jpg" style="width: 283px;"></a></div>
             </div>
         </div>
         <div class="container">

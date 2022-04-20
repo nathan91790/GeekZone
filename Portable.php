@@ -58,7 +58,7 @@
 
                 <!--Div création du produit Ventilateur pour Iphone avec son nom et sa description  -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/ventilo-pour-iphone.jpg" style="width: 400px;height: 325px;"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="produit/Mini_ventilateur.php"><img class="img-fluid" src="assets/img/ventilo-pour-iphone.jpg" style="width: 400px;height: 325px;"></a>
                     <h3 class="name" style="font-size: 22px;">Ventilateur pour Iphone</h3>
                     <p class="description" style="font-size: 17px;"><br>Le ventilateur Iphone est le gadget à emporter partout avec vous !
                         <br>Canicule ou bouffées de chaleur? Nous avons l''accessoire geek au top pour des journées où tout est chaud !<br><br>
@@ -68,7 +68,7 @@
 
                 <!--Div création du produit Coque Iphone Décapsuleur avec son nom et sa description  -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/coque-iphone-4-decapsuleur.jpg" style="width: 400px;height: 325px" ;></a>
+                <div class="col-sm-6 col-md-4 item"><a href="produit/Coque_Iphone.php"><img class="img-fluid" src="assets/img/coque-iphone-4-decapsuleur.jpg" style="width: 400px;height: 325px" ;></a>
                     <h3 class="name" style="font-size: 22px;">Coque Iphone Décapsuleur</h3>
                     <p class="description" style="font-size: 17px;"><br>Avec cette coque intelligente conçue avec un
                         décapsuleur, vous serez toujours prêt à ouvrir votre boisson préférée !<br><br></p><a class="action" href="#"></a>
@@ -76,7 +76,7 @@
 
                 <!--Div création du produit Manette Jeu pour écran tactile Istick avec son nom et sa description  -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/manette-jeu-pour-ecran-tactile-istick.jpg" style="width: 400px;height: 325px" ;></a>
+                <div class="col-sm-6 col-md-4 item"><a href="produit/Manette.php"><img class="img-fluid" src="assets/img/manette-jeu-pour-ecran-tactile-istick.jpg" style="width: 400px;height: 325px" ;></a>
                     <h3 class="name" style="font-size: 22px;">Manette Jeu pour écran tactile Istick</h3>
                     <p style="font-size: 17px;"><br>Le stick qui transforme votre smartphone en console portable,
                         Une manette spécifiquement conçue pour les écrans tactiles.<br><br></p>

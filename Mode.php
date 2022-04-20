@@ -57,26 +57,26 @@
 
 
             <div class="row articles">
-                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/t-shirt-coder.jpg" style="width: 400px;height: 325px; margin-top : 72px;"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="produit/Tee_shirt_coder.php"><img class="img-fluid" src="assets/img/t-shirt-coder.jpg" style="width: 400px;height: 325px; margin-top : 72px;"></a>
                     <h3 class="name" style="font-size: 22px;">T_shirt Coder</h3>
                     <p class="description" style="font-size: 17px;"><br>Coder ? On y perd son latin.Informations produit :&nbsp;
                         Tee-shirt noir 100% coton peigné pré-rétréci.<br><br></p><a class="action" href="#"></a>
                 </div>
-                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/t-shirt-les-jeux-video-ont-ruine-ma-vie.jpg"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="produit/Tee_shirt_JV.php"><img class="img-fluid" src="assets/img/t-shirt-les-jeux-video-ont-ruine-ma-vie.jpg"></a>
                     <h3 class="name" style="font-size: 22px;">T-shirt Jeux Vidéos</h3>
                     <p class="description" style="font-size: 17px;"><br>T-Shirt avec un bien beau slogan spécial gamer :
                         Les Jeux Vidéo ont ruiné ma vie : Il m'en reste deux <br><br>&nbsp;</p>
                     <a class="action" href="#"></a>
                 </div>
-                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/bonnet-barbe-1.jpg" style="width: 400px; height: 325px; margin-top : 57px; padding-bottom : 15px;"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="produit/Bonnet_barbe.php"><img class="img-fluid" src="assets/img/bonnet-barbe-1.jpg" style="width: 400px; height: 325px; margin-top : 57px; padding-bottom : 15px;"></a>
                     <h3 class="name" style="font-size: 22px;">Bonnet Barbe</h3>
                     <p style="font-size: 17px;"><br>Le bonnet barbe, l'assurance d'une pilosité chaque jour renouvelée.
                         <br>Un véritable rêve s''offre à vous avec ce bonnet barbe !<br><br>
                     </p><a class="action" href="#"></a>
                 </div>
                 <div class="col-sm-6 col-md-4 item"><a href="#"></a><a class="action" href="#"></a></div>
-                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/t-shirt-detecteur-wifi-1.jpg" style="width: 283px;"></a>
-                    <h3 class="name" style="font-size: 22px;">T-shirt Détecteur</h3>
+                <div class="col-sm-6 col-md-4 item"><a href="produit/Tee_shirt_wifi.php"><img class="img-fluid" src="assets/img/t-shirt-detecteur-wifi-1.jpg" style="width: 283px;"></a>
+                    <h3 class="name" style="font-size: 22px;">T-shirt Wifi</h3>
                     <p style="font-size: 17px;"><br>Ce tee-shirt dispose d''un détecteur de signal Wifi, et le fait savoir !
                         <br>Equipé d''un petit module récepteur, vous connaitrez aisément l''intensité du réseau Wifi à votre portée.<br><br>
                     </p><a class="action" href="#"></a>
