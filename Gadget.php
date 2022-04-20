@@ -58,9 +58,10 @@
             <!-- Création d'une div permettant d'afficher les images des articles -->
 
             <div class="row articles">
-                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/prise-chargeur-usb-robinet.jpg" style="width: 283px;height: 283px;; padding: 10px;"></a></div>
-                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/souris-optique-pixel.jpg"></a></div>
-                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/stealth-switch.jpg" style="width: 283px;padding: 10px;"></a></div>
+                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/prise-chargeur-usb-robinet.jpg" style="width: 283px;height: 283px;; padding: 10px;"></a></div>
+                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/souris-optique-pixel.jpg"></a></div>
+                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"><img class="img-fluid" src="assets/img/stealth-switch.jpg" style="width: 283px;padding: 10px;"></a></div>
+
             </div>
         </div>
 
@@ -74,27 +75,27 @@
 
                 <!--Div création du produit Prise Chargeur Robinet avec son nom et sa description  -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="#"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"></a>
                     <h3 class="name" style="font-size: 22px;">Prise Chargeur Robinet&nbsp;</h3>
                     <p class="description" style="font-size: 17px;"><br>Un chargeur USB totalement geek pour votre smartphone ?
                         <br>En forme de robinet, ce chargeur USB original se branche à votre prise de courant
                         <br><br>
-                    </p><a class="action" href="#"></a>
+                    </p><a class="action" href="Produit.php"></a>
                 </div>
 
                 <!--Div création du produit Souris Optique Pixel avec son nom et sa description  -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="#"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"></a>
                     <h3 class="name" style="font-size: 22px;">Souris Optique Pixel</h3>
                     <p class="description" style="font-size: 17px;"><br>Fatigué de votre banale souris ?
                         Adoptez cette souris optique filaire en forme d''icône géante de pointeur de souris !
                         Fonctionne comme une souris classique avec ses deux boutons et sa molette de défilement à votre ordinateur.<br><br>
-                    </p><a class="action" href="#"></a>
+                    </p><a class="action" href="Produit.php"></a>
                 </div>
 
                 <!--Div création du produit Stealth Switch avec son nom et sa description  -->
 
-                <div class="col-sm-6 col-md-4 item"><a href="#"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="Produit.php"></a>
                     <h3 class="name" style="font-size: 22px;">Stealth Switch</h3>
                     <p style="font-size: 17px;"><br>Vous avez décidé de vous accorder quelques minutes de détente ?
                         <br>Avec Stealth Switch vous pouvez en toute tranquillité lancer votre application favorite.<br><br>
@@ -102,9 +103,10 @@
                 </div>
                 <div class="col-sm-6 col-md-4 item"><a href="#"></a><a class="action" href="#"></a></div>
 
-                <!--Div création du produit Powerball' avec son nom et sa description  -->
+                <!--Div création du produit Powerball avec son nom et sa description  -->
 
-                <div class="col-sm-6 col-md-4 item"><img class="img-fluid" src="assets/img/powerball.jpg" style="width: 283px;"><a href="#"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="Produit.php">
+                <img class="img-fluid" src="assets/img/powerball.jpg" style="width: 283px;"><a href="#"></a>
                     <h3 class="name" style="font-size: 22px;">Powerball</h3>
                     <p style="font-size: 17px;"><br>Le Powerball est un nouveau gyroscope totalement révolutionnaire tenant dans la main et
                         capable de générer une énorme quantité d'énergie et un couple extraordinaire<br><br></p>
