@@ -56,7 +56,7 @@
                 <p class="text-center"></p>
             </div>
             <div class="row articles">
-                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/glacons-tetris%20(1).jpg" style="width: 283px;height: 283px;"></a>
+                <div class="col-sm-6 col-md-4 item"><a href="#"><img class="img-fluid" src="assets/img/glacons-tetris(1).jpg" style="width: 283px;height: 283px;"></a>
                     <h3 class="name" style="font-size: 22px;">Glaçon Tetris</h3>
                     <p class="description" style="font-size: 17px;">Un élément geek indispensable pour passer une bonne
                         soirée à se remémorer les jeux de votre enfance !&nbsp;<br></p><a class="action" href="#"></a>
